@@ -32,6 +32,6 @@ A real-time challenge that encourages users to make race predictions while engag
 ### Target Audience: 
 Primarily Cluster 2, due to their high chat activity and sponsorship interactions.
 ### Predicted Outcomes:
-Increased Merchandise Sales: By integrating rewards with merchandise, it encourages in-app purchases.  
-Higher Sponsorship Engagement: Ads are tied to gameplay benefits, boosting interaction.  
-Engagement Growth: It leverages high chat activity, especially for Cluster 2, to increase fan participation.  
+Increased Merchandise Sales by integrating rewards with merchandise, encouraging in-app purchases.  
+Higher Sponsorship Engagement as ads are tied to gameplay benefits, boosting interaction.  
+Engagement Growth because it leverages high chat activity, especially for Cluster 2, to increase fan participation.  
